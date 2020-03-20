@@ -1,0 +1,7 @@
+{
+    "schemaType": "LAUNCHER",
+    "id": "prototype-nr1-actions-launcher",
+    "displayName": "PrototypeNr1ActionsLauncher",
+    "description": "Describe me",
+    "rootNerdletId": "prototype-nr1-actions-nerdlet"
+}
